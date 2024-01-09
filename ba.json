@@ -2,11 +2,11 @@
     "storeHouse": [
     {
         "sourceName": "自用优选仓",
-        "sourceUrl": "./list.json"
+        "sourceUrl": "https://list.eoeoo.com/list.json"
     },
     {
         "sourceName": "自用优选仓备份",
-        "sourceUrl": "./list.txt"
+        "sourceUrl": "https://list.eoeoo.com/list.txt"
     },
     {
         "sourceName": "电视盒子仓",
