@@ -2,7 +2,7 @@
     "storeHouse": [
     {
         "sourceName": "自用优选仓",
-        "sourceUrl": "http://list.eoeoo.com/list4.json"
+        "sourceUrl": "./list4.json"
     },
    
     {

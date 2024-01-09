@@ -1,12 +1,12 @@
 {
 	"spider": "./Yoursmile.jar;md5;564F69FA12A8D491569E9631629E0011",
-	"wallpaper": "https://www.eoeoo.com/ke/index.php?user/publicLink&fid=070bykUHk8q1YiF2hMvAtVrU9pv2Si9Y2UweEr_Htfb6FMAS-zNZzmOdlN32Q6dZXBLeQmcIy7GgRuHVtQGg7rc3CAemUYSAcAHXxI9eLb3rrPRLD8Dcow6HoY64qozYm954riJpSbNHSp5fjCaAPqUrA8WEQsATJ43WLQ&file_name=/1359.jpg%20%3B%20filename%20%3Dutf-8%27%271359.jpg",
+	"wallpaper": "./config/1359.png",
 
     "lives": [{
             "name": "直播",
             "type": 0,
             "playerType": 1,
-            "url": "http://www.eoeoo.com/config/tvlist.txt",
+            "url": "./config/tvlist.txt",
             "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }, {
@@ -14,7 +14,7 @@
             "channels": [{
                     "name": "live",
                     "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
-                    "urls": ["proxy://do=live&type=txt&ext=http://www.eoeoo.com/config/tvlist.txt"]
+                    "urls": ["proxy://do=live&type=txt&ext=./config/tvlist.txt"]
 
                 }
             ]

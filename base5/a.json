@@ -26,13 +26,13 @@
 {
 "spider":"./Jar/Fan512.jar",
 
-    "wallpaper": "https://www.eoeoo.com/config/bg.jpg",
+    "wallpaper": "./config/bg.jpg",
     "lives": [
         {
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "http://www.eoeoo.com/config/tvlist.txt",
+          "url": "./config/tvlist.txt",
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
         },
@@ -42,7 +42,7 @@
                 {
                     "name": "live",
                     "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-                    "urls": ["proxy://do=live&type=txt&ext=http://www.eoeoo.com/config/tvlist.txt"]
+                    "urls": ["proxy://do=live&type=txt&ext=./config/tvlist.txt"]
 
                 }
             ]
