@@ -26,13 +26,13 @@
 {
 "spider":"./Jar/Fan512.jar",
 
-    "wallpaper": "./config/bg.jpg",
+    "wallpaper": "../config/bg.jpg",
     "lives": [
         {
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "./config/tvlist.txt",
+          "url": "../config/tvlist.txt",
           "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
           "logo": "http://epg.51zmt.top:8000/api/diyp/logo/{name}.png"
         },

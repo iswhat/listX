@@ -1,13 +1,13 @@
 ﻿{
 
 "spider":"./jarcf/Yoursmile.jar;md5;282C31437FAD9E7959CC2E06E7705930",
-    "wallpaper": "./config/1359.png",
+    "wallpaper": "../config/1359.png",
     "lives": [
         {
           "name": "直播",
           "type": 0,
           "playerType": 1,
-          "url": "./config/tvlist.txt",
+          "url": "../config/tvlist.txt",
           "epg": "https://diyp.112114.xyz/?ch={name}&date={date}",
           "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
