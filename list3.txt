@@ -7,6 +7,7 @@
 	{"url":"https://list.eoeoo.com/base4/a.json","name":"自建配置4a"},
 	{"url":"https://list.eoeoo.com/base4/b.json","name":"自建配置4b"},
 	{"url":"https://list.eoeoo.com/base5/a.json","name":"自建配置5"},
+	{"url":"https://list.eoeoo.com/base5/b.json","name":"自建配置5b"},
 	{"url":"https://github.uoouo.com/https://raw.githubusercontent.com/li5bo5/TVBox/main/18.json","name":"li5bo518_Git"},
 	{"url":"https://github.uoouo.com/https://raw.githubusercontent.com/sathew/CatVodSpider/main/json/18.json","name":"未知18_Git"},
 	{"url":"https://cdn.jsdelivr.net/gh/2hacc/TVBox@main/h/h.json","name":"二哈git H"},
