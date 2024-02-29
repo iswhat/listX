@@ -2,28 +2,8 @@
     "storeHouse": [
     {
         "sourceName": "自用优选仓",
-        "sourceUrl": "https://list.eoeoo.com/list.json"
-    },
-    {
-        "sourceName": "自用优选仓备份",
-        "sourceUrl": "https://list.eoeoo.com/list.txt"
-    },
-    {
-        "sourceName": "电视盒子仓",
-        "sourceUrl": "http://chuanshuo.77blog.cn/yuan"
-    },
-    {
-        "sourceName": "日后服务器",
-        "sourceUrl": "http://rihou.cc/日后多仓/3.php"
-    },
-    {
-        "sourceName": "吾爱推荐",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
-    },
-    {
-        "sourceName": "多多公众仓",
-        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/2.txt"
-    },
+        "sourceUrl": "https://list.eoeoo.com/list4.json"
+    },   
     {
         "sourceName": "安卓哥1仓",
         "sourceUrl": "https://gitcode.net/wzlyd1/00/-/raw/master/0.txt"
@@ -37,10 +17,6 @@
         "sourceUrl": "https://github.uoouo.com/https://raw.githubusercontent.com/niubihu1/tvbox-/main/自用仓库.txt"
     },
     {
-        "sourceName": "Calendre(wdc558)",
-        "sourceUrl": "https://gitee.com/wdc558/TVBox/raw/master/KuYuan/cangku1.json"
-    },
-    {
         "sourceName": "JAR资源仓",
         "sourceUrl": "https://download.kstore.space/download/2883/10-13.json"
     },
@@ -52,7 +28,7 @@
         "sourceName": "PY体验仓",
         "sourceUrl": "https://download.kstore.space/download/2883/PY/py%E4%BD%93%E9%AA%8C%E5%BA%93.txt"
     },
-       {
+    {
         "sourceName": "dly",
         "sourceUrl": "https://agit.ai/gk0748/gk0/raw/branch/master/zc.json"
     },
@@ -81,41 +57,12 @@
         "sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"
     },
     {
-        "sourceName": "吾爱1仓",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67777/2.json?sign=6uxC2q2PId6OS9Y9ucygvIGl6wvugOzZN3E0Hzl4oCs%3D%3A0"
-    },
-    {
-        "sourceName": "吾爱1号仓",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
-    },
-    
-    {
         "sourceName": "吾爱3号仓",
         "sourceUrl": "https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"
     },
     {
         "sourceName": "嘟嘟仓库",
         "sourceUrl": "https://www.agit.ai/hu/hcr/raw/commit/beb954f1ae6828ab8dc86b4059cf98e6378bce3b/duo.txt"
-    },
-    {
-        "sourceName": "日后多仓备用",
-        "sourceUrl": "http://rihou.cc/日后多仓/0.php"
-    },
-    {
-        "sourceName": "多多仓库",
-        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/1.txt"
-    },
-    {
-        "sourceName": "多多聚合仓",
-        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/3.txt"
-    },
-    {
-        "sourceName": "多多预备仓",
-        "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/4.txt"
-    },
-    {
-        "sourceName": "大烟管仓库1",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/ck.txt"
     },
     {
         "sourceName": "大老仓库",
@@ -146,54 +93,6 @@
         "sourceUrl": "https://raw.iqiq.io/QFBJ/KKYS/main/dc/SJ"
     },
     {
-        "sourceName": "影视仓1",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"
-    },
-    {
-        "sourceName": "影视仓2",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"
-    },
-    {
-        "sourceName": "影视仓3",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"
-    },
-    {
-        "sourceName": "影视仓4",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"
-    },
-    {
-        "sourceName": "影视仓库1",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/1.json"
-    },
-    {
-        "sourceName": "影视仓库1",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/a"
-    },
-    {
-        "sourceName": "影视仓库2",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/2.json"
-    },
-    {
-        "sourceName": "影视仓库2",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/b"
-    },
-    {
-        "sourceName": "影视仓库3",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/3.json"
-    },
-    {
-        "sourceName": "影视仓库3",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/c"
-    },
-    {
-        "sourceName": "影视仓库4",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/4.json"
-    },
-    {
-        "sourceName": "影视仓库4",
-        "sourceUrl": "https://codeberg.org/g./g/raw/branch/main/d"
-    },
-    {
         "sourceName": "yw88075仓库",
         "sourceUrl": "https://github.uoouo.com/https://raw.githubusercontent.com/yw88075/tvbox/main/ywxl.json"
     },
@@ -206,14 +105,6 @@
         "sourceUrl": "https://agit.ai/pinghui/xinghe/raw/commit/272fbb5697a8aa6abb60c7bd76252f9c13c89a24/ronghe.txt"
     },
     {
-        "sourceName": "星河2号仓",
-        "sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/2.txt"
-    },
-    {
-        "sourceName": "星河3号仓",
-        "sourceUrl": "https://gitlab.com/duomv/apps/-/raw/main/3.txt"
-    },
-    {
         "sourceName": "星河5号仓",
         "sourceUrl": "https://agit.ai/leroy/leroy/raw/branch/master/22.bin"
     },
@@ -222,48 +113,8 @@
         "sourceUrl": "https://agit.ai/guot54/ygbh/raw/branch/master/cangku/8.txt"
     },
     {
-        "sourceName": "月光宝盒仓1",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/1.json"
-    },
-    {
-        "sourceName": "月光宝盒仓2",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/2.json"
-    },
-    {
-        "sourceName": "月光宝盒仓3",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/3.json"
-    },
-    {
-        "sourceName": "月光宝盒仓4",
-        "sourceUrl": "https://gitlab.com/ygbh1/666/-/raw/main/dcang/4.json"
-    },
-    {
-        "sourceName": "欧歌1号仓",
-        "sourceUrl": "http://tv.nxog.top/dc/多多/1.php?b=欧歌"
-    },
-    {
-        "sourceName": "欧歌2号仓",
-        "sourceUrl": "http://tv.nxog.top/dc/多多/2.php?b=欧歌"
-    },
-    {
-        "sourceName": "欧歌3号仓",
-        "sourceUrl": "http://tv.nxog.top/dc/多多/3.php?b=欧歌"
-    },
-    {
-        "sourceName": "欧歌4号仓",
-        "sourceUrl": "http://tv.nxog.top/dc/多多/4.php?b=欧歌"
-    },
-    {
-        "sourceName": "欧歌5号仓",
-        "sourceUrl": "http://tv.nxog.top/dc/多多/5.php?b=欧歌"
-    },
-    {
         "sourceName": "欧歌仓库",
         "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
-    },
-    {
-        "sourceName": "派大星仓库",
-        "sourceUrl": "http://tv.nxog.top/m/m/5.php?b=派大星"
     },
     {
         "sourceName": "涤灵苑绿色版",
@@ -278,28 +129,8 @@
         "sourceUrl": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt"
     },
     {
-        "sourceName": "绿茶2号馆",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67121/%E7%BB%BF%E8%8C%B61.txt?sign=P1Ko2EJyKAdWqcdNZhfmF0gsWTRvL971YmFYtzW25ek%3D%3A0"
-    },
-    {
-        "sourceName": "绿茶3号馆",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67278/%E7%BB%BF%E8%8C%B64.txt?sign=MN_qRMG2fSRvQ38lIGw1alcZrrn07i27A1lVpsdyY7I%3D%3A0"
-    },
-    {
-        "sourceName": "日后多仓2",
-        "sourceUrl": "http://rihou.cc/日后多仓/2.php"
-    },
-    {
         "sourceName": "网络精选6",
         "sourceUrl": "https://cn.kstore.space/download/2904/123.txt"
-    },
-    {
-        "sourceName": "网络精选7",
-        "sourceUrl": "https://box.nxog.top/1"
-    },
-    {
-        "sourceName": "网络精选9",
-        "sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"
     },
     {
         "sourceName": "订制壁纸专仓",
@@ -314,72 +145,8 @@
         "sourceUrl": "https://agit.ai/butterfly/md/raw/branch/PLANT/DC-91-OL.json"
     },
     {
-        "sourceName": "龙爪1号金库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58205/cku1.txt?sign=1FdBo3hZRTsTu_ox-yjRW6vI9Oozzqr0XEiOPDFWz3Q%3D%3A0"
-    },
-    {
-        "sourceName": "龙爪2号库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58206/cku2.txt?sign=ugGIX0D0j1-c7pI7MxMLa3jhim6osO4YGurEwnl2bn8%3D%3A0"
-    },
-    {
-        "sourceName": "龙爪3号库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58207/cku3.txt?sign=GpT5-g5Iwqs9faApi4Eeop0fXH1mY-6XZ1LbLrLBIkw%3D%3A0"
-    },
-    {
-        "sourceName": "龙爪3号金库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58208/caku4.txt?sign=j7Izx7SwVYK34WdR3qpyc4tBeON7Ol-SkT80s_LlEy4%3D%3A0"
-    },
-    {
-        "sourceName": "龙爪4号库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58208/caku4.txt?sign=j7Izx7SwVYK34WdR3qpyc4tBeON7Ol-SkT80s_LlEy4%3D%3A0"
-    },
-    {
-        "sourceName": "龙爪5号库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58209/chku5.txt?sign=Qgnbplj1MEZDyO32--s045y4XsP-u6v-145ZHeNdHIs%3D%3A0"
-    },
-    {
-        "sourceName": "龙爪5号金库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58210/cku6.txt?sign=np_n27UHRyN51epTKSiyTMCgYu6412231GC5SUIL38U%3D%3A0"
-    },
-    {
-        "sourceName": "龙爪6号库",
-        "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/58210/cku6.txt?sign=np_n27UHRyN51epTKSiyTMCgYu6412231GC5SUIL38U%3D%3A0"
-    },
-    {
         "sourceName": "１号优选接口",
         "sourceUrl": "https://github.uoouo.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib1.txt"
-    },
-    {
-        "sourceName": "10号库",
-        "sourceUrl": "https://box.nxog.top/10"
-    },
-    {
-        "sourceName": "11号库",
-        "sourceUrl": "https://box.nxog.top/11"
-    },
-    {
-        "sourceName": "12号库",
-        "sourceUrl": "https://box.nxog.top/12"
-    },
-    {
-        "sourceName": "13号库",
-        "sourceUrl": "https://box.nxog.top/13"
-    },
-    {
-        "sourceName": "14号库",
-        "sourceUrl": "https://box.nxog.top/14"
-    },
-    {
-        "sourceName": "15号库",
-        "sourceUrl": "https://box.nxog.top/15"
-    },
-    {
-        "sourceName": "16号库",
-        "sourceUrl": "https://box.nxog.top/16"
-    },
-    {
-        "sourceName": "17号库",
-        "sourceUrl": "https://box.nxog.top/17"
     },
     {
         "sourceName": "18",
@@ -390,24 +157,12 @@
         "sourceUrl": "https://notabug.org/keke9088/TVBOX/raw/master/flc.txt"
     },
     {
-        "sourceName": "18号库",
-        "sourceUrl": "https://box.nxog.top/18"
-    },
-    {
         "sourceName": "19仓库",
         "sourceUrl": "https://notabug.org/dwasrr/TVBOX1/raw/02caf772977319b2f5058754d98686d6d9ac4402/fuli0220.json"
     },
     {
-        "sourceName": "19号库",
-        "sourceUrl": "https://box.nxog.top/19"
-    },
-    {
         "sourceName": "1号仓库",
         "sourceUrl": "https://agit.ai/376242575/zzh/raw/branch/master/单仓.txt"
-    },
-    {
-        "sourceName": "1号库",
-        "sourceUrl": "https://box.nxog.top/1"
     },
     {
         "sourceName": "20号库",
@@ -422,47 +177,11 @@
         "sourceUrl": "https://agit.ai/zhanghong/jyys/raw/branch/master/2"
     },
     {
-        "sourceName": "27号库",
-        "sourceUrl": "https://agit.ai/dlee2008/66666/raw/branch/master/update_yuan.txt"
-    },
-    {
         "sourceName": "2号仓库",
         "sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/znck.txt"
     },
     {
-        "sourceName": "2号库",
-        "sourceUrl": "https://box.nxog.top/2"
-    },
-    {
         "sourceName": "2号测试仓库",
         "sourceUrl": "https://github.uoouo.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib4.txt"
-    },
-    {
-        "sourceName": "3号库",
-        "sourceUrl": "https://box.nxog.top/3"
-    },
-    {
-        "sourceName": "4号库",
-        "sourceUrl": "https://box.nxog.top/4"
-    },
-    {
-        "sourceName": "5号库",
-        "sourceUrl": "https://box.nxog.top/5"
-    },
-    {
-        "sourceName": "6号库",
-        "sourceUrl": "https://box.nxog.top/6"
-    },
-    {
-        "sourceName": "7号库",
-        "sourceUrl": "https://box.nxog.top/7"
-    },
-    {
-        "sourceName": "8号库",
-        "sourceUrl": "https://box.nxog.top/8"
-    },
-    {
-        "sourceName": "9号库",
-        "sourceUrl": "https://box.nxog.top/9"
     }]
 }
