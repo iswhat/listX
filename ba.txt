@@ -45,6 +45,6 @@
     {"sourceName": "21号库","sourceUrl": "https://agit.ai/66666/mao/raw/commit/0ec2c15e9a1a0df2ae6c44b4d7d7a4083d6d6f77/00/xx/0update_yuan"},
     {"sourceName": "26号库","sourceUrl": "https://agit.ai/zhanghong/jyys/raw/branch/master/2"},
     {"sourceName": "2号仓库","sourceUrl": "https://gitcode.net/m0_73513607/ysc1129/-/raw/master/znck.txt"},
-    {"sourceName": "2号测试仓库","sourceUrl": "https://github.uoouo.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib4.txt"}
+    {"sourceName": "2号测试仓库","sourceUrl": "https://github.uoouo.com/https://raw.githubusercontent.com/jigedos/tvbox1/main/mlib/lib4.txt"
     }]
 }
