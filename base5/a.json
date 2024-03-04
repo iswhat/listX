@@ -35,9 +35,12 @@
 //0126--更新jar、阿里
 //0129--修改斗鱼虎牙接口，增加直播接口，删除解析2，增加哔哩直播内容
 //0218--playtype:1 ijk//playtype:2 exo
+//0301--增加饭太硬直播转点播、短剧、新片推荐，修改替换到道长库虎牙直播
+
+
 
 {
-"spider":"./Jar/fan.txt;md5;87d5916b7bb5c8acacac5490e802828e",
+"spider":"./Jar/fan.txt;md5;82a31f7dab4c0eb89a46584f3934d810",
 
     "wallpaper": "../config/bg.jpg",
     "lives": [
