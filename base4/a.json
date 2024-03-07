@@ -1,6 +1,6 @@
 { 
 
-"spider":"./jarcf/Yoursmile.jar;md5;71B3AF5F2F3E4FB48B24EE16E6D574BC",
+"spider":"./jarcf/Yoursmile.jar;md5;FD79D9F858163EB7F572FBC8A677B2A9",
 "wallpaper": "../config/1359.png",
     "lives": [{
             "name": "直播",
@@ -105,6 +105,7 @@
 {"key":"csp_YGP","name":"🚀叨观荐影","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":1,"changeable":0},
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/sub/token.txt"},
+{"key":"csp_Bdys","name":"☀哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/gaogao/master/lib/lf_search3_min.js"},
 {"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/JS/drpy.js"},

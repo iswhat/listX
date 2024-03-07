@@ -1,5 +1,5 @@
 {
-	"spider": "./Yoursmile.jar;md5;71B3AF5F2F3E4FB48B24EE16E6D574BC",
+	"spider": "./Yoursmile.jar;md5;FD79D9F858163EB7F572FBC8A677B2A9",
 	"wallpaper": "../config/1359.png",
 
     "lives": [{
@@ -30,6 +30,7 @@
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_YQKan","name":"🌎一起看","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_Bdys","name":"☀哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 //{"key": "csp_Czsapp","name": "🏭️厂长┃临时-调用小暴脾气","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"changeable": 0,"quickSearch": 1,"ext": "https://www.czzy88.com/","filterable": 1,"jar": "https://iswhat.github.io/tvboxcon/jar/fan.txt"},
 //{"key": "csp_Kunyu77", "name": "👒酷云七七|临时-调用香雅倩", "type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://www.eoeoo.com/base3/custom_spider.jar"},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
