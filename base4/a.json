@@ -1,6 +1,6 @@
 { 
 
-"spider":"./jarcf/Yoursmile.jar;md5;3935C9456192CEC444D59491031BD777",
+"spider":"./jarcf/Yoursmile.jar;md5;42A6EC6AB77DDDDC5153760F4700C9BE",
 "wallpaper": "../config/1359.png",
     "lives": [{
             "name": "直播",
@@ -106,6 +106,7 @@
 {"key":"csp_77","name":"👒酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_WoGG","name":"👽玩偶哥哥","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/mt/master/sub/token.txt"},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com/"},
 {"key":"csp_Bdys","name":"☀哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"农民","name":"🥝农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/农民影视.json"},
 {"key":"lf_js_search","name":"路飞搜索[js]","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"https://mirror.ghproxy.com/raw.githubusercontent.com/maitao008/gaogao/master/lib/lf_search3_min.js"},

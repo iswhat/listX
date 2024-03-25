@@ -1,5 +1,5 @@
 {
-	"spider": "./Yoursmile.jar;md5;3935C9456192CEC444D59491031BD777",
+	"spider": "./Yoursmile.jar;md5;42A6EC6AB77DDDDC5153760F4700C9BE",
 	"wallpaper": "../config/1359.png",
 
     "lives": [{
@@ -32,7 +32,7 @@
 {"key":"csp_NanGua","name":"🎃南瓜","type":3,"api":"csp_NanGua","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_Bdys","name":"☀哔嘀","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-{"key":"csp_BaiPiao","name":"👻白飘","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{"key":"csp_BaiPiao","name":"👻白嫖","type":3,"api":"csp_BaiPiao","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.baipiaoys.com/"},
 {"key":"酷看","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"率率","name":"🌸率率","type":3,"api":"csp_AppLd","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"FbjSZ1FapovNr0QF4QvEpcoxb5gWXdQJE2MXqLG6ykBcSsOR7TnDygTd5bXnCjGuLD/PknUhkn0yQ2NzCIxgZAkPAofMgEqVYlhBvnhU8N1VerP8K2NTNgP+NxESztO6"},
 {"key":"csp_AppTT","name":"💥萌米","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"AO7TcBkd8Jqf5UgA7xXA6dVlLcc="},
