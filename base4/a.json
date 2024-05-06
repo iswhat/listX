@@ -125,13 +125,13 @@
 {"key":"奇优","name":"奇优,type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/奇优.json"},
 {"key":"Aid","name":"急救教学,type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"filterable":0,"changeable":0},
 {"key":"csp_SP33","name":"三三解析,type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key":"高中","name":"高中,type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/高中课堂.json"}
+{"key":"高中","name":"高中,type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/高中课堂.json"},
 {"key":"农民","name":"农民,type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/农民影视.json"},
 {"key":"初中","name":"初中,type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/初中课堂.json"},
 {"key":"少儿","name":"少儿,type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/少儿教育.json"},
 {"key":"小学","name":"小学,type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/小学课堂.json"},
 {"key":"影图影视","name":"影图影视聚,type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"csp_Local","name":"本地,type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1},{"key":"csp_Nbys"
+{"key":"csp_Local","name":"本地,type":3,"api":"csp_Local","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Kanqiu","name":"88看球,type":3,"api":"csp_Kanqiu","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
 {"key":"相声小品","name":"相声小品,type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./sub/Blixs.json"},
 {"key":"csp_MYYS","name":"忍者,type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
