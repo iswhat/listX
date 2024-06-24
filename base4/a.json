@@ -1,6 +1,6 @@
 { 
 
-"spider":"./jarcf/Yoursmile.jar;md5;28A7B24F340910BB52DBE760B0445629",
+"spider":"./jarcf/Yoursmile.jar;md5;F2139713C5B5F28866E742D5B9C4DF8D",
 "wallpaper": "../config/1359.png",
     "lives": [{
             "name": "直播",
@@ -112,6 +112,11 @@
 {"key":"csp_Cokemv","name":"可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anime1","name":"动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name":"在线直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Juqq","name":"⭕剧圈圈","type":3,"api":"csp_Juqq","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppRZ","name":"🕵忍者","type":3,"api":"csp_AppRZ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
+{"key":"csp_FreeOK","name":"🆗FreeOK","type":3,"api":"csp_FreeOK","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_MaoLv","name":"🐴毛驴","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"唐人街墙外","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"酷看","name":"酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
