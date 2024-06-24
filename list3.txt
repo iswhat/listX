@@ -25,6 +25,7 @@
 	{"url":"https://github.uoouo.com/https://raw.githubusercontent.com/iswhat/2ha/main/tvbox.json","name":"二哈git备份2"},
 	{"url":"https://list.eoeoo.com/base/aaa.json","name":"福利配置（简）"},
 	{"url":"https://list.eoeoo.com/base/aaaa.json","name":"福利配置（全）"},
+	{"url":"https://tv.uoouo.com/9918.json","name":"福利配置（gaotianliuyun）"},
 	{"url":"https://github.uoouo.com/https://raw.githubusercontent.com/c120487/00/c775f0554e5ea9f939f5b27afecc733b86572563/05155.txt","name":"福利配置（乱）"},
 	{"name":"🔞挺好专享","url":"https://pan.shangui.cc/f/KepQc6/api.json"},
 	{"name":"🔞FL1","url":"https://s2.pub/n1"},
